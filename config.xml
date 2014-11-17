@@ -2,7 +2,7 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.architecgraphic.citralandpuriserang"
-        versionCode="12" 
+        versionCode="13" 
         version   = "1.0.0">
 		
 	<!-- For more information about using config.xml, see
@@ -19,7 +19,7 @@
     <icon src="icon.png"/>
 
 
-    <name>CitraLand Puri Serang</name>
+    <name>CitraLand Puri Serang m-brochure</name>
 
     <description>
         Mobile catalogue of CitraLand Puri Serang. Designed and created by Architec Graphic Boutique.
